@@ -75,11 +75,3 @@ Find the full academic write-up in [`docs/0-1Knapsack.pdf`](docs/0-1Knapsack.pdf
 - Comparative experiments.
 - Interface screenshots.
 
-## 👥 Authors
-
-- Lebga Hanane, Abbou Riyad, Haggani Abla, Benounene Abdelrahmane  
-> Supervised by: Ms. Mezrar, ENSI
-
-## 📜 License
-
-Licensed under the MIT License.
