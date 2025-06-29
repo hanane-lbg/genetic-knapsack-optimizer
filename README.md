@@ -3,6 +3,14 @@
 
 > A Streamlit-powered web app that applies Genetic Algorithms to solve the 0-1 Knapsack problem. Users can optimize project selection under budget constraints to maximize return on investment.
 
+## 🚀 Try the Application
+
+This project is available online!  
+You can access the Streamlit interface and test the genetic algorithm parameters here:
+
+👉 [Click here to try the app](https://genetic-knapsack-optimizer-tesqwmxo3s7vrj3hhh7kxe.streamlit.app/)
+
+
 ## 🎯 Problem Statement
 
 In many real-world scenarios like project funding or resource allocation, decision-makers must choose the best subset of items (projects) under a budget. This is modeled as a **0-1 Knapsack problem**, where each item has a profit and weight, and the objective is to **maximize total profit** without exceeding capacity.
@@ -74,4 +82,13 @@ Find the full academic write-up in [`docs/0-1Knapsack.pdf`](docs/0-1Knapsack.pdf
 - Description of algorithms.
 - Comparative experiments.
 - Interface screenshots.
+
+> 💡 **Note:** While this project is presented in the context of project selection, it can easily be adapted to other constraint-based optimization problems, such as:
+>
+> - Time management (e.g., choosing the most profitable tasks within limited hours)
+> - Resource allocation (budget, people, materials…)
+> - Task scheduling, or any "knapsack-type" decision-making scenario
+
+Users can customize the inputs (profits, weights, budget) based on their specific context.
+
 
