@@ -10,6 +10,12 @@ You can access the Streamlit interface and test the genetic algorithm parameters
 
 👉 [Click here to try the app](https://genetic-knapsack-optimizer-tesqwmxo3s7vrj3hhh7kxe.streamlit.app/)
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="GA.png" width="700"/>
+</p>
+
 
 ## 🎯 Problem Statement
 
@@ -20,9 +26,6 @@ This app allows you to:
 - Tune the **genetic algorithm parameters** (population size, crossover, mutation strategy).
 - Visualize performance metrics across generations.
 
-## 📸 Demo
-
-![Streamlit UI](assets/streamlit_demo.png)
 
 ## 🧠 Algorithms Used
 
