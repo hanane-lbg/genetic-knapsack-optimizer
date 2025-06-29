@@ -80,7 +80,7 @@ Profit,Weight
 
 ## 📄 Report
 
-Find the full academic write-up in [`docs/0-1Knapsack.pdf`](docs/0-1Knapsack.pdf), which includes:
+Find the full academic write-up in [`0-1Knapsack report.pdf.pdf`](0-1Knapsack report.pdf.pdf), which includes:
 - Theoretical explanation of the KP01 problem.
 - Description of algorithms.
 - Comparative experiments.
