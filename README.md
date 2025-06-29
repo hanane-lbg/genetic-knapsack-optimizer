@@ -88,7 +88,6 @@ Find the full academic write-up in [`docs/0-1Knapsack.pdf`](docs/0-1Knapsack.pdf
 > - Time management (e.g., choosing the most profitable tasks within limited hours)
 > - Resource allocation (budget, people, materials…)
 > - Task scheduling, or any "knapsack-type" decision-making scenario
-
-Users can customize the inputs (profits, weights, budget) based on their specific context.
+> Users can customize the inputs (profits, weights, budget) based on their specific context.
 
 
