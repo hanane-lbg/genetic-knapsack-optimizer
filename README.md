@@ -1,15 +1,7 @@
 # 💼 Project Selection Optimization using Genetic Algorithms  
 
 ### 🚀 Advanced AI Mini Project — Based on the 0-1 Knapsack Problem  
-
-**Authors:**  
-- Hanane Lebga  
-- Riyad Abbou  
-- Abla Haggani  
-- Abdelrahmane Benounene  
-
-**Supervisor:** Ms. Mezrar  
-**Institution:** École Nationale Supérieure d’Informatique (ESI), 08 Mai 1945  
+  
 
 ---
 
@@ -108,17 +100,3 @@ Interactive interface for configuring and solving the optimization problem.
 
 ---
 
-## 🧾 How to Run  
-
-### 🪜 Setup  
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<username>/project-selection-ga.git
-cd project-selection-ga
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run Streamlit app
-streamlit run app.py
