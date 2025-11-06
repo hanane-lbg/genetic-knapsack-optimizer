@@ -17,7 +17,8 @@ The system is fully implemented as a **Streamlit web app**, enabling interactive
 
 # 💼 Genetic Knapsack Optimizer
 
-[![Open in Streamlit](https://bqehrmklhtiez3mca5natj.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bqehrmklhtiez3mca5natj.streamlit.app/)
+
 
 
 ## 🧠 Problem Definition  
