@@ -15,6 +15,11 @@ The system is fully implemented as a **Streamlit web app**, enabling interactive
 
 ---
 
+# 💼 Genetic Knapsack Optimizer
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://readmemd-t6airz9vjmvsec9mznttym.streamlit.app/)
+
+
 ## 🧠 Problem Definition  
 
 Given a set of potential projects, each with:
